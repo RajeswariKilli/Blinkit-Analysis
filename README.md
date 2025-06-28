@@ -46,7 +46,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
    - Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
    - Chart Type: Matrix Card.
   ## Dashboard 
-  ![blinkit](https://github.com/user-attachments/assets/d86dbd5f-b344-4946-bd19-bfe69f55a7ef)
+![Blinkit Project Photo](https://github.com/user-attachments/assets/915c5814-5d47-4b04-9fd4-4c896ded98a7)
+
   ## Final Conclusion
-  By building a dynamic Power BI dashboard, I uncovered Blinkit’s sales performance across fat content, outlet size, location, and establishment year—highlighting that low‑fat items slightly outperform regular‑fat, Tier 3 outlets generate the highest revenue, and medium‑sized, newer outlets drive strong sales; key product categories like fruits, snacks, and household items consistently lead—demonstrating clear opportunities to prioritize these products, expand in high‑growth outlet segments, and guide data‑driven decisions through interactive visualizations and KPIs that bring insights to life.
+  By building a dynamic Power BI dashboard, I uncovered Blinkit’s sales performance across fat content, outlet size, location, and establishment year—highlighting that low‑fat items slightly outperform  regular‑fat, Tier 3 outlets generate the highest revenue, and medium‑sized, newer outlets drive strong sales; key product categories like fruits, snacks, and household items consistently lead—demonstrating clear opportunities to prioritize these products, expand in high‑growth outlet segments, and guide data‑driven decisions through interactive visualizations and KPIs that bring insights to life.
 
